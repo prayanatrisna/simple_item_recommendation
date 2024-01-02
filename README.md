@@ -28,7 +28,10 @@ streamlit run app.py
 * Similarity matrix are generated from the previous data. The similarity matrix need to be updated if the transaction data is updated. The button for updating the similarity matrix is provided in the app.
 * The app receives 2 inputs:
   * Customer ID, which indicates the customer ID. If wrong/blank id is inputed the app will show nothing.
-  * Total recommendations, which indicate the number of recommendation generated. The default number is 10, though it can be changed.
-* The app will show 2 output:
-  * The already bought item list
-  * The recommendations list that is consisted with n number of items (depending on the input)
+  * Total recommendations, which indicate the number of recommendations generated. The default number is 10, though it can be changed.
+* The app will show 2 outputs:
+  * The already-bought item list
+  * The recommendations list that consists of n number of items (depending on the input)
+
+## Explanation
+The explanation of the methodology can be found in [here](https://tartan-sorrel-634.notion.site/Skilvul-Test-Assesment-75913e0c53c141bb9066af5e18603889)
