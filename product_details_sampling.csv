@@ -1,0 +1,51 @@
+product_id,category,price,ratings
+101,Electronics,500,4.5
+102,Clothing,50,3.8
+103,Home & Kitchen,200,4.2
+104,Beauty,30,4.0
+105,Electronics,800,4.8
+106,Beauty,790,4.2
+107,Home & Kitchen,690,4.9
+108,Electronics,60,3.7
+109,Clothing,280,3.6
+110,Electronics,180,4.4
+111,Electronics,620,4.8
+112,Electronics,540,3.6
+113,Clothing,740,3.8
+114,Beauty,610,4.7
+115,Electronics,200,4.7
+116,Beauty,770,4.7
+117,Beauty,580,4.9
+118,Electronics,720,4.8
+119,Home & Kitchen,80,4.6
+120,Electronics,510,4.7
+121,Electronics,770,4.7
+122,Clothing,570,3.5
+123,Electronics,720,4.4
+124,Electronics,300,3.9
+125,Electronics,200,3.8
+126,Electronics,600,4.9
+127,Electronics,540,4.2
+128,Clothing,440,4.9
+129,Clothing,200,4.8
+130,Electronics,510,4.0
+131,Clothing,330,4.6
+132,Beauty,230,4.5
+133,Electronics,260,3.7
+134,Home & Kitchen,40,4.0
+135,Clothing,440,4.8
+136,Electronics,320,4.6
+137,Clothing,620,4.4
+138,Beauty,220,4.8
+139,Electronics,300,4.0
+140,Electronics,170,4.5
+141,Clothing,590,4.3
+142,Electronics,340,4.1
+143,Beauty,150,4.5
+144,Electronics,540,3.6
+145,Home & Kitchen,430,4.1
+146,Beauty,780,4.8
+147,Electronics,150,4.3
+148,Beauty,790,3.7
+149,Home & Kitchen,260,4.1
+150,Electronics,40,3.8
